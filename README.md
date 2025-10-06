@@ -9,6 +9,11 @@
 
 A comprehensive demonstration of Reinforcement Learning from Human Feedback (RLHF) using Proximal Policy Optimization (PPO), featuring advanced performance profiling and optimization techniques.
 
+## 🎬 Demo
+
+![RLHF Pipeline Demo](assets/demo.gif)
+*Interactive training pipeline showing 4x speedup from optimization*
+
 ## 🎯 What Is This?
 
 This is an **interactive training pipeline** that demonstrates how modern AI models like ChatGPT are fine-tuned using reinforcement learning. It showcases the complete RLHF workflow with real-time performance monitoring and optimization strategies.
