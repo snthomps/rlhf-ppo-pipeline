@@ -11,9 +11,8 @@ A comprehensive demonstration of Reinforcement Learning from Human Feedback (RLH
 
 ## 🎬 Demo
 
-![RLHF Pipeline Demo](assets/demo.gif)
+![RLHF Pipeline Demo](assets/rlhf-ppo-training-pipeline-web-demo.gif)
 *Interactive training pipeline showing 4x speedup from optimization*
-https://snthomps.github.io/rlhf-ppo-pipeline/
 
 ## 🎯 What Is This?
 
